@@ -1,0 +1,49 @@
+
+body {
+  background-color: pink;
+}
+
+#header{
+  background-color: #66CCFF;
+  color: red;
+}
+
+#imgbanner {
+  max-width: 50%;
+  max-height: 50%;
+}
+
+#container {
+  background-color: white;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#content {
+  padding: 10px;
+}
+
+#nav {
+  width: 180px;
+  float: left;
+}
+
+#main {
+  width: 600px;
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0px;
+  text-align: left;
+}
+
+#footer {
+  clear: both;
+  background-color: grey;
+  color: white;
+  padding: 10px;
+  text-align: right;
+}
